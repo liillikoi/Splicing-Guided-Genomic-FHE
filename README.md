@@ -32,10 +32,10 @@
 | Metric | Baseline (Full WGS FHE) | Proposed (Splicing Hybrid FHE) | Improvement |
 | :--- | :---: | :---: | :---: |
 | **FHE Ciphertext Chunks** | 135 chunks | **14 chunks** | **89.6% Reduction** |
-| **Total Encrypted Size** | 84.70 MB | **19.23 MB** | **77.30% Reduction** |
-| **Client Encryption Time** | 1.9260 sec | **0.2258 sec** | **8.53x Faster** |
-| **Cloud Evaluation Time (PRS)** | 6.8476 sec | **0.6499 sec** | **10.54x Faster** |
-| **Computation Accuracy** | Baseline | **99.9998% Match** | Abs. Error $\approx 1.9 \times 10^{-4}$ |
+| **Total Encrypted Size** | 84.69 MB | **19.23 MB** | **77.30% Reduction** |
+| **Client Encryption Time** | 3.1141 sec | **0.5393 sec** | **5.77x Faster** |
+| **Cloud Evaluation Time (PRS)** | 11.2885 sec | **1.0135 sec** | **11.14x Faster** |
+| **Computation Accuracy** | Baseline | **99.99% Match** | Abs. Error $\approx 3.21 \times 10^{-3}$ |
 
 ---
 
