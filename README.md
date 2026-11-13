@@ -52,3 +52,9 @@ wget https://ebi.ac.uk
 # 3. Run benchmark
 python benchmark.py
 ```
+
+### Additional Single-Bucket Benchmark (50k Variants Sample)
+- **Variants Processed**: 50,000 total (`5,119` Exon / `44,881` Intron)
+- **Encryption Time**: `0.3878 sec`
+- **Encrypted Size**: `0.63 MB` (Exon FHE) + `482.13 KB` (Intron AES-256)
+- **Cloud Evaluation Time**: `0.0461 sec` (Absolute Error: `2.01e-4`)
