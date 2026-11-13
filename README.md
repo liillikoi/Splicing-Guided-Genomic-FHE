@@ -37,6 +37,7 @@
 | **Cloud Evaluation Time (PRS)** | 11.2885 sec | **1.0135 sec** | **11.14x Faster** |
 | **Computation Accuracy** | Baseline | **99.99% Match** | Abs. Error $\approx 3.21 \times 10^{-3}$ |
 
+![Benchmark Result](benchmark_result.png)
 ---
 
 ## 🚀 Quick Start
